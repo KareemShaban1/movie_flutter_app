@@ -1,16 +1,11 @@
 # movie_app_ui
 
-A new Flutter project.
+Movies App Flutter UI
 
-## Getting Started
+## Screen Shots
 
-This project is a starting point for a Flutter application.
+| ![Screenshot_1662822665](https://user-images.githubusercontent.com/42013687/209916062-b9cd8a3b-da71-4e74-a1dc-49f06762c0d5.png) | ![Screenshot_1662822797](https://user-images.githubusercontent.com/42013687/209916066-e7f45bb2-ace9-45f2-bca7-aaa0a037e843.png) |
+| --------------------------------------- | --------------------------------------- |
+| ![Screenshot_1662824423](https://user-images.githubusercontent.com/42013687/209916067-76732b45-a7a1-4c5d-ae29-b5e0d059ab30.png) |  ![Screenshot_1662824427](https://user-images.githubusercontent.com/42013687/209916059-00a38d2a-757b-4862-9312-0fea5c450235.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
